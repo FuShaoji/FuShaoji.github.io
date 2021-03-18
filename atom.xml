@@ -6,7 +6,7 @@
   <link href="http://fushaoji.github.io/atom.xml" rel="self"/>
   
   <link href="http://fushaoji.github.io/"/>
-  <updated>2021-03-18T09:08:43.613Z</updated>
+  <updated>2021-03-18T17:49:08.712Z</updated>
   <id>http://fushaoji.github.io/</id>
   
   <author>
@@ -17,11 +17,88 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>POJ2503-Babelfish</title>
+    <link href="http://fushaoji.github.io/year/031910.html"/>
+    <id>http://fushaoji.github.io/year/031910.html</id>
+    <published>2021-03-18T17:41:00.000Z</published>
+    <updated>2021-03-18T17:49:08.712Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目传送门&quot;&gt;&lt;a href=&quot;#题目传送门&quot; class=&quot;headerlink&quot; title=&quot;题目传送门&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://poj.org/problem?id=2503&quot;&gt;题目传送门&lt;/a&gt;&lt;/h2&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="ACM" scheme="http://fushaoji.github.io/categories/ACM/"/>
+    
+    
+    <category term="基础题" scheme="http://fushaoji.github.io/tags/%E5%9F%BA%E7%A1%80%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++STL用法大全</title>
+    <link href="http://fushaoji.github.io/year/03189.html"/>
+    <id>http://fushaoji.github.io/year/03189.html</id>
+    <published>2021-03-18T11:38:00.000Z</published>
+    <updated>2021-03-18T17:38:16.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vector&quot;&gt;&lt;a href=&quot;#vector&quot; class=&quot;headerlink&quot; title=&quot;vector&quot;&gt;&lt;/a&gt;vector&lt;/h1&gt;&lt;h1 id=&quot;stack&quot;&gt;&lt;a href=&quot;#stack&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="编程语言" scheme="http://fushaoji.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="C++" scheme="http://fushaoji.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学知识（一）</title>
+    <link href="http://fushaoji.github.io/year/03188.html"/>
+    <id>http://fushaoji.github.io/year/03188.html</id>
+    <published>2021-03-18T09:15:00.000Z</published>
+    <updated>2021-03-18T09:39:00.849Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;质数&quot;&gt;&lt;a href=&quot;#质数&quot; class=&quot;headerlink&quot; title=&quot;质数&quot;&gt;&lt;/a&gt;质数&lt;/h1&gt;&lt;h2 id=&quot;试除法判断质数&quot;&gt;&lt;a href=&quot;#试除法判断质数&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ACM" scheme="http://fushaoji.github.io/categories/ACM/"/>
+    
+    
+    <category term="数学" scheme="http://fushaoji.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2020ICPC南京M.Monster Hunter</title>
     <link href="http://fushaoji.github.io/year/03187.html"/>
     <id>http://fushaoji.github.io/year/03187.html</id>
     <published>2021-03-18T08:48:00.000Z</published>
-    <updated>2021-03-18T09:08:43.613Z</updated>
+    <updated>2021-03-18T17:40:24.047Z</updated>
     
     
       
@@ -73,7 +150,7 @@
     <link href="http://fushaoji.github.io/year/03173.html"/>
     <id>http://fushaoji.github.io/year/03173.html</id>
     <published>2021-03-17T08:06:47.035Z</published>
-    <updated>2021-03-17T12:04:41.891Z</updated>
+    <updated>2021-03-18T17:43:45.632Z</updated>
     
     
       
@@ -123,7 +200,7 @@
     <link href="http://fushaoji.github.io/year/03175.html"/>
     <id>http://fushaoji.github.io/year/03175.html</id>
     <published>2021-03-17T07:21:00.000Z</published>
-    <updated>2021-03-17T12:04:35.538Z</updated>
+    <updated>2021-03-18T17:40:30.789Z</updated>
     
     
       
