@@ -6,7 +6,7 @@
   <link href="http://fushaoji.github.io/atom.xml" rel="self"/>
   
   <link href="http://fushaoji.github.io/"/>
-  <updated>2021-04-28T05:41:03.003Z</updated>
+  <updated>2021-05-14T08:57:17.017Z</updated>
   <id>http://fushaoji.github.io/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ACM-ICPC题单（题解版）</title>
+    <link href="http://fushaoji.github.io/year/05144.html"/>
+    <id>http://fushaoji.github.io/year/05144.html</id>
+    <published>2021-05-14T08:51:04.881Z</published>
+    <updated>2021-05-14T08:57:17.017Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数学&quot;&gt;&lt;a href=&quot;#数学&quot; class=&quot;headerlink&quot; title=&quot;数学&quot;&gt;&lt;/a&gt;数学&lt;/h1&gt;&lt;h2 id=&quot;递推式&quot;&gt;&lt;a href=&quot;#递推式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
+    
+    
+    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ACM-ICPC题单（目录版）</title>
+    <link href="http://fushaoji.github.io/year/05144.html"/>
+    <id>http://fushaoji.github.io/year/05144.html</id>
+    <published>2021-05-14T04:49:48.806Z</published>
+    <updated>2021-05-14T08:57:22.065Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数学&quot;&gt;&lt;a href=&quot;#数学&quot; class=&quot;headerlink&quot; title=&quot;数学&quot;&gt;&lt;/a&gt;数学&lt;/h1&gt;&lt;h2 id=&quot;递推式&quot;&gt;&lt;a href=&quot;#递推式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
+    
+    
+    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>ACM程序设计实训2</title>
@@ -46,7 +96,7 @@
     <link href="http://fushaoji.github.io/year/040630.html"/>
     <id>http://fushaoji.github.io/year/040630.html</id>
     <published>2021-04-06T02:14:00.000Z</published>
-    <updated>2021-05-12T18:57:05.346Z</updated>
+    <updated>2021-05-14T08:55:56.580Z</updated>
     
     
       
@@ -59,7 +109,7 @@
     
     
     
-    <category term="蒟蒻选手的自我修养" scheme="http://fushaoji.github.io/categories/%E8%92%9F%E8%92%BB%E9%80%89%E6%89%8B%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/"/>
+    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
     
     
     <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
