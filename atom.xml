@@ -6,7 +6,7 @@
   <link href="http://fushaoji.github.io/atom.xml" rel="self"/>
   
   <link href="http://fushaoji.github.io/"/>
-  <updated>2021-05-19T05:58:00.399Z</updated>
+  <updated>2021-05-21T03:16:07.003Z</updated>
   <id>http://fushaoji.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基础算法题单</title>
+    <link href="http://fushaoji.github.io/year/052157499.html"/>
+    <id>http://fushaoji.github.io/year/052157499.html</id>
+    <published>2021-05-21T03:14:34.617Z</published>
+    <updated>2021-05-21T03:16:07.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;基础算法&quot;&gt;&lt;a href=&quot;#基础算法&quot; class=&quot;headerlink&quot; title=&quot;基础算法&quot;&gt;&lt;/a&gt;基础算法&lt;/h1&gt;&lt;h2 id=&quot;搜索&quot;&gt;&lt;a href=&quot;#搜索&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
+    
+    
+    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>动态规划题单</title>
@@ -67,6 +92,31 @@
   </entry>
   
   <entry>
+    <title>第二章动态规划模板</title>
+    <link href="http://fushaoji.github.io/year/051760315.html"/>
+    <id>http://fushaoji.github.io/year/051760315.html</id>
+    <published>2021-05-17T07:55:00.000Z</published>
+    <updated>2021-05-19T15:06:51.496Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第二章-动态规划&quot;&gt;&lt;a href=&quot;#第二章-动态规划&quot; class=&quot;headerlink&quot; title=&quot;第二章 动态规划&quot;&gt;&lt;/a&gt;第二章 动态规划&lt;/h1&gt;&lt;h2 id=&quot;线性DP&quot;&gt;&lt;a href=&quot;#线性DP&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
+    
+    
+    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第五章计算几何模板</title>
     <link href="http://fushaoji.github.io/year/05177530.html"/>
     <id>http://fushaoji.github.io/year/05177530.html</id>
@@ -92,36 +142,11 @@
   </entry>
   
   <entry>
-    <title>第二章动态规划模板</title>
-    <link href="http://fushaoji.github.io/year/051760315.html"/>
-    <id>http://fushaoji.github.io/year/051760315.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-17T08:19:32.618Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第二章-动态规划&quot;&gt;&lt;a href=&quot;#第二章-动态规划&quot; class=&quot;headerlink&quot; title=&quot;第二章 动态规划&quot;&gt;&lt;/a&gt;第二章 动态规划&lt;/h1&gt;&lt;h2 id=&quot;线性DP&quot;&gt;&lt;a href=&quot;#线性DP&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>第一章基础算法模板</title>
     <link href="http://fushaoji.github.io/year/051756149.html"/>
     <id>http://fushaoji.github.io/year/051756149.html</id>
     <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-17T08:19:32.630Z</updated>
+    <updated>2021-05-20T16:20:38.312Z</updated>
     
     
       
@@ -321,14 +346,14 @@
     <link href="http://fushaoji.github.io/year/041257726.html"/>
     <id>http://fushaoji.github.io/year/041257726.html</id>
     <published>2021-04-12T02:11:34.135Z</published>
-    <updated>2021-05-17T08:19:32.603Z</updated>
+    <updated>2021-05-19T07:08:53.860Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;ZOJ2812-Quicksum&quot;&gt;&lt;a href=&quot;#ZOJ2812-Quicksum&quot; class=&quot;headerlink&quot; title=&quot;ZOJ2812 Quicksum&quot;&gt;&lt;/a&gt;ZOJ2812 Quicksum&lt;/h1&gt;&lt;h2</summary>
+    <summary type="html">&lt;h1 id=&quot;ZOJ2812-Quicksum&quot;&gt;&lt;a href=&quot;#ZOJ2812-Quicksum&quot; class=&quot;headerlink&quot; title=&quot;ZOJ2812 Quicksum&quot;&gt;&lt;/a&gt;&lt;a</summary>
         
       
     
