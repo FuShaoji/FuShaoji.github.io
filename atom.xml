@@ -6,7 +6,7 @@
   <link href="http://fushaoji.github.io/atom.xml" rel="self"/>
   
   <link href="http://fushaoji.github.io/"/>
-  <updated>2021-05-28T04:59:18.991Z</updated>
+  <updated>2021-06-12T06:39:01.061Z</updated>
   <id>http://fushaoji.github.io/</id>
   
   <author>
@@ -17,186 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>图论题单</title>
-    <link href="http://fushaoji.github.io/year/052134170.html"/>
-    <id>http://fushaoji.github.io/year/052134170.html</id>
-    <published>2021-05-21T09:51:08.907Z</published>
-    <updated>2021-05-28T04:59:18.991Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;图论&quot;&gt;&lt;a href=&quot;#图论&quot; class=&quot;headerlink&quot; title=&quot;图论&quot;&gt;&lt;/a&gt;图论&lt;/h1&gt;&lt;h2 id=&quot;最小生成树&quot;&gt;&lt;a href=&quot;#最小生成树&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据结构题单</title>
-    <link href="http://fushaoji.github.io/year/052164136.html"/>
-    <id>http://fushaoji.github.io/year/052164136.html</id>
-    <published>2021-05-21T08:56:35.607Z</published>
-    <updated>2021-05-22T09:45:25.063Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;数据结构&quot;&gt;&lt;a href=&quot;#数据结构&quot; class=&quot;headerlink&quot; title=&quot;数据结构&quot;&gt;&lt;/a&gt;数据结构&lt;/h1&gt;&lt;h2 id=&quot;线段树&quot;&gt;&lt;a href=&quot;#线段树&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基础算法题单</title>
-    <link href="http://fushaoji.github.io/year/052157499.html"/>
-    <id>http://fushaoji.github.io/year/052157499.html</id>
-    <published>2021-05-21T03:14:34.617Z</published>
-    <updated>2021-05-29T06:06:54.373Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;基础算法&quot;&gt;&lt;a href=&quot;#基础算法&quot; class=&quot;headerlink&quot; title=&quot;基础算法&quot;&gt;&lt;/a&gt;基础算法&lt;/h1&gt;&lt;h2 id=&quot;搜索&quot;&gt;&lt;a href=&quot;#搜索&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>动态规划题单</title>
-    <link href="http://fushaoji.github.io/year/051964512.html"/>
-    <id>http://fushaoji.github.io/year/051964512.html</id>
-    <published>2021-05-19T05:56:29.075Z</published>
-    <updated>2021-05-26T17:44:10.161Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;动态规划&quot;&gt;&lt;a href=&quot;#动态规划&quot; class=&quot;headerlink&quot; title=&quot;动态规划&quot;&gt;&lt;/a&gt;动态规划&lt;/h1&gt;&lt;h2 id=&quot;状态压缩dp&quot;&gt;&lt;a href=&quot;#状态压缩dp&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第七章C++STL的应用</title>
-    <link href="http://fushaoji.github.io/year/051745019.html"/>
-    <id>http://fushaoji.github.io/year/051745019.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-17T08:24:19.639Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第七章-C-STL的应用&quot;&gt;&lt;a href=&quot;#第七章-C-STL的应用&quot; class=&quot;headerlink&quot; title=&quot;第七章 C++STL的应用&quot;&gt;&lt;/a&gt;第七章 C++STL的应用&lt;/h1&gt;&lt;h2 id=&quot;string&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第二章动态规划模板</title>
-    <link href="http://fushaoji.github.io/year/051760315.html"/>
-    <id>http://fushaoji.github.io/year/051760315.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-19T15:06:51.496Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第二章-动态规划&quot;&gt;&lt;a href=&quot;#第二章-动态规划&quot; class=&quot;headerlink&quot; title=&quot;第二章 动态规划&quot;&gt;&lt;/a&gt;第二章 动态规划&lt;/h1&gt;&lt;h2 id=&quot;线性DP&quot;&gt;&lt;a href=&quot;#线性DP&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第五章计算几何模板</title>
-    <link href="http://fushaoji.github.io/year/05177530.html"/>
-    <id>http://fushaoji.github.io/year/05177530.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-18T10:01:00.305Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第五章-计算几何&quot;&gt;&lt;a href=&quot;#第五章-计算几何&quot; class=&quot;headerlink&quot; title=&quot;第五章 计算几何&quot;&gt;&lt;/a&gt;第五章 计算几何&lt;/h1&gt;&lt;h2 id=&quot;基本运算&quot;&gt;&lt;a href=&quot;#基本运算&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一章基础算法模板</title>
-    <link href="http://fushaoji.github.io/year/051756149.html"/>
-    <id>http://fushaoji.github.io/year/051756149.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-20T16:20:38.312Z</updated>
+    <title>算法模板</title>
+    <link href="http://fushaoji.github.io/year/061233030.html"/>
+    <id>http://fushaoji.github.io/year/061233030.html</id>
+    <published>2021-06-12T06:35:00.000Z</published>
+    <updated>2021-06-12T06:39:01.061Z</updated>
     
     
       
@@ -217,43 +42,18 @@
   </entry>
   
   <entry>
-    <title>第三章数据结构模板</title>
-    <link href="http://fushaoji.github.io/year/051743807.html"/>
-    <id>http://fushaoji.github.io/year/051743807.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-06-03T17:07:06.694Z</updated>
+    <title>题单题解（一）</title>
+    <link href="http://fushaoji.github.io/year/051964512.html"/>
+    <id>http://fushaoji.github.io/year/051964512.html</id>
+    <published>2021-05-19T05:56:29.075Z</published>
+    <updated>2021-06-12T05:55:22.093Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第三章-数据结构&quot;&gt;&lt;a href=&quot;#第三章-数据结构&quot; class=&quot;headerlink&quot; title=&quot;第三章 数据结构&quot;&gt;&lt;/a&gt;第三章 数据结构&lt;/h1&gt;&lt;h2 id=&quot;单调队列&quot;&gt;&lt;a href=&quot;#单调队列&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第六章数学模板</title>
-    <link href="http://fushaoji.github.io/year/051745020.html"/>
-    <id>http://fushaoji.github.io/year/051745020.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-17T18:20:11.356Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第六章-数学&quot;&gt;&lt;a href=&quot;#第六章-数学&quot; class=&quot;headerlink&quot; title=&quot;第六章 数学&quot;&gt;&lt;/a&gt;第六章 数学&lt;/h1&gt;&lt;h2 id=&quot;质数&quot;&gt;&lt;a href=&quot;#质数&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h3 id=&quot;1-ZOJ1217-Eight-bfs&quot;&gt;&lt;a href=&quot;#1-ZOJ1217-Eight-bfs&quot; class=&quot;headerlink&quot; title=&quot;1. ZOJ1217 Eight (bfs)&quot;&gt;&lt;/a&gt;1. &lt;a</summary>
         
       
     
@@ -262,32 +62,7 @@
     <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
     
     
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第四章图论模板</title>
-    <link href="http://fushaoji.github.io/year/051758033.html"/>
-    <id>http://fushaoji.github.io/year/051758033.html</id>
-    <published>2021-05-17T07:55:00.000Z</published>
-    <updated>2021-05-26T13:47:57.777Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第四章-图论&quot;&gt;&lt;a href=&quot;#第四章-图论&quot; class=&quot;headerlink&quot; title=&quot;第四章 图论&quot;&gt;&lt;/a&gt;第四章 图论&lt;/h1&gt;&lt;h2 id=&quot;树上问题&quot;&gt;&lt;a href=&quot;#树上问题&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
     
   </entry>
   
@@ -317,68 +92,20 @@
   </entry>
   
   <entry>
-    <title>计算几何题单</title>
-    <link href="http://fushaoji.github.io/year/051441321.html"/>
-    <id>http://fushaoji.github.io/year/051441321.html</id>
-    <published>2021-05-14T09:16:46.012Z</published>
-    <updated>2021-05-17T08:19:32.627Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;计算几何&quot;&gt;&lt;a href=&quot;#计算几何&quot; class=&quot;headerlink&quot; title=&quot;计算几何&quot;&gt;&lt;/a&gt;计算几何&lt;/h1&gt;&lt;h2 id=&quot;点和线&quot;&gt;&lt;a href=&quot;#点和线&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数学题单</title>
-    <link href="http://fushaoji.github.io/year/051455534.html"/>
-    <id>http://fushaoji.github.io/year/051455534.html</id>
-    <published>2021-05-14T08:51:04.881Z</published>
-    <updated>2021-05-18T16:35:49.710Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;数学&quot;&gt;&lt;a href=&quot;#数学&quot; class=&quot;headerlink&quot; title=&quot;数学&quot;&gt;&lt;/a&gt;数学&lt;/h1&gt;&lt;h2 id=&quot;递推式&quot;&gt;&lt;a href=&quot;#递推式&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="算法题单" scheme="http://fushaoji.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>算法题单（目录版）</title>
+    <title>综合能力算法题单（目录版）</title>
     <link href="http://fushaoji.github.io/year/05149776.html"/>
     <id>http://fushaoji.github.io/year/05149776.html</id>
     <published>2021-05-14T04:49:48.806Z</published>
-    <updated>2021-05-29T06:07:10.685Z</updated>
+    <updated>2021-06-12T05:57:01.349Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.luogu.com.cn/user/275803&quot;&gt;&lt;img src=&quot;https://luogu.vercel.app/practice?id=275803&amp;dark_mode=true&quot;</summary>
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://zoj.pintia.cn/problem-sets/91827364500/problems/91827364716&quot;&gt;ZOJ1217 Eight&lt;/a&gt; (搜索 bfs)&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
         
       
     
@@ -396,7 +123,7 @@
     <link href="http://fushaoji.github.io/year/041257726.html"/>
     <id>http://fushaoji.github.io/year/041257726.html</id>
     <published>2021-04-12T02:11:34.135Z</published>
-    <updated>2021-06-09T06:04:33.038Z</updated>
+    <updated>2021-06-12T04:37:32.217Z</updated>
     
     
       
@@ -413,31 +140,6 @@
     
     
     <category term="题解" scheme="http://fushaoji.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>算法模板（目录版）</title>
-    <link href="http://fushaoji.github.io/year/04065541.html"/>
-    <id>http://fushaoji.github.io/year/04065541.html</id>
-    <published>2021-04-06T02:14:00.000Z</published>
-    <updated>2021-05-17T08:25:30.353Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第一章基础算法模板&quot;&gt;&lt;a href=&quot;#第一章基础算法模板&quot; class=&quot;headerlink&quot; title=&quot;第一章基础算法模板&quot;&gt;&lt;/a&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="算法竞赛" scheme="http://fushaoji.github.io/categories/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/"/>
-    
-    
-    <category term="模板" scheme="http://fushaoji.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
